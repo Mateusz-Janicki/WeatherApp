@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="images">
+    <file>Decoration.jpg</file>
+    <file>clear.png</file>
+    <file>few_clouds.png</file>
+    <file>mist.png</file>
+    <file>rain.png</file>
+    <file>scattered_clouds.png</file>
+    <file>shower_rain.png</file>
+    <file>snow.png</file>
+    <file>thunderstorm.png</file>
+    <file>broken_clouds.png</file>
+  </qresource>
+</RCC>
